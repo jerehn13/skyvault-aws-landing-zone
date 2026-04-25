@@ -1,6 +1,3 @@
-# skyvault-aws-landing-zone
-Multi-account AWS landing zone using Control Tower with automated security, centralized logging, and compliance enforcement
-
 # SkyVault – Multi-Account AWS Landing Zone
 
 ## Overview
